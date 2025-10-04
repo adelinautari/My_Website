@@ -1,0 +1,13 @@
+{
+"companyName": "Labtech Penta Internasional",
+"productName": "RCO-HPT-A",
+"dataUrl": "482999fd66fc8e65bb6596ebd5a2ecfd.unityweb",
+"wasmCodeUrl": "d9c09be06a875dd8a5bdd04b684405aa.unityweb",
+"wasmFrameworkUrl": "705b019c8efbe60c682851aa9fef9296.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
